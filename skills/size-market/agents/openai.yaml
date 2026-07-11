@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Sizing Model"
+  short_description: "Research, reconcile, and model an auditable market"
+  default_prompt: "Use $size-market to research my business market and deliver a formula-linked Excel model with explicit sources and assumptions."
