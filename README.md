@@ -17,7 +17,7 @@ It produces a formula-linked Excel workbook covering:
 
 ### Install
 
-Download [size-market-v2.zip](https://github.com/willyisun/stratestack/releases/download/v2.0.0/size-market-v2.zip), unzip it, and install the resulting `size-market/` folder in the skills directory supported by your Agent product.
+Download [size-market-v2.zip](https://github.com/willyisun/stratestack/raw/refs/heads/main/dist/size-market-v2.zip), unzip it, and install the resulting `size-market/` folder in the skills directory supported by your Agent product.
 
 You can also install from source by copying [`skills/size-market/`](skills/size-market/) into the relevant skills directory.
 
@@ -45,8 +45,13 @@ skills/
     ├── assets/
     ├── references/
     └── scripts/
+
+dist/
+└── size-market-v2.zip
 ```
 
 ## Version
 
-Current release: `v2.0.0`
+Current package: `v2.0.0`
+
+SHA-256: `fdd06cd0f7b5592a5d26061812dbd101ade7e66b2c964393b7072bcdc766e63a`
